@@ -1,4 +1,4 @@
-# Wine Price Prediction Using NLP and Numerical Features
+# Wine Price Prediction Using NLP and Numerical Features 🍷
 
 This project leverages a comprehensive dataset of over 150,000 wine reviews from WineEnthusiast to predict wine prices. By utilizing Natural Language Processing (NLP) and dense neural network layers, this model analyzes both the textual content of wine reviews and numerical features to estimate the price of wines accurately.
 
@@ -24,6 +24,7 @@ The model is trained using a combined dataset of textual and numerical features.
 # Results
 
 The training process includes monitoring loss and Mean Absolute Error (MAE) to evaluate the model's performance. Overall, the model shows good initial learning and improvement, but begins to plateau with minor signs of overfitting as training progresses. Adjusting training parameters and employing regularization techniques could further enhance performance.
+![image](https://github.com/user-attachments/assets/b631a8b7-b883-46cd-9785-30948887f933)
 
 # Contributing
 
