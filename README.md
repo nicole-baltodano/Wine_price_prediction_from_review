@@ -6,14 +6,14 @@ This project leverages a comprehensive dataset of over 150,000 wine reviews from
 
 The dataset includes:
 
-winemag-data-130k-v2.csv containing 10 columns and 130k rows of wine reviews.
-winemag-data_first150k.csv containing 10 columns and 150k rows of wine reviews.
-winemag-data-130k-v2.json containing 6919 nodes of wine reviews.
+- winemag-data-130k-v2.csv containing 10 columns and 130k rows of wine reviews.
+- winemag-data_first150k.csv containing 10 columns and 150k rows of wine reviews.
+- winemag-data-130k-v2.json containing 6919 nodes of wine reviews.
 
 # Models
 
 ### Numerical Model
-The numerical model processes numerical features such as regions, variaety, points.
+The numerical model is implemented using dense neural network layers and processes numerical features such as regions, variety and points.
 
 ### NLP Model
 The NLP model processes the textual content of wine reviews using embedding layers, convolutional layers, and dense layers.
@@ -23,7 +23,8 @@ The model is trained using a combined dataset of textual and numerical features.
 
 # Results
 
-The training process includes monitoring loss and Mean Absolute Error (MAE) to evaluate the model's performance. Overall, the model shows good initial learning and improvement, but begins to plateau with minor signs of overfitting as training progresses. Adjusting training parameters and employing regularization techniques could further enhance performance.
+The training process includes monitoring loss and Mean Absolute Error (MAE) to evaluate the model's performance. 
+
 ![image](https://github.com/user-attachments/assets/b631a8b7-b883-46cd-9785-30948887f933)
 
 # Contributing
