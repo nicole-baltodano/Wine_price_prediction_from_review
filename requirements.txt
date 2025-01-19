@@ -1,8 +1,8 @@
-numpy
-pandas
-tensorflow
-matplotlib
-scikit-learn
+numpy==1.23.4
+pandas==2.2.3
+tensorflow_cpu==2.10.0
+matplotlib==3.5.3
+scikit_learn==1.3.1
 seaborn
 pydot
 kaggle
