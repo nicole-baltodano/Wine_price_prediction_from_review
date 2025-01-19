@@ -13,7 +13,7 @@ winemag-data-130k-v2.json containing 6919 nodes of wine reviews.
 # Models
 
 ## Numerical Model
-The numerical model processes numerical features such as ratings and vintage using dense layers.
+The numerical model processes numerical features such as regions, variaety, points.
 
 ## NLP Model
 The NLP model processes the textual content of wine reviews using embedding layers, convolutional layers, and dense layers.
@@ -29,7 +29,15 @@ The training process includes monitoring loss and Mean Absolute Error (MAE) to e
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
+# Installation 
+
+git clone https://github.com/nicole-baltodano/wine-price-prediction.git
+cd wine-price-prediction
+pip install -r requirements.txt
+
 # Acknowledgements
 
 The data was downloaded from Kaggle Wine Reviews Dataset.
 https://www.kaggle.com/datasets/zynicide/wine-reviews
+
+
