@@ -32,9 +32,9 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 # Installation 
 
-git clone https://github.com/nicole-baltodano/wine-price-prediction.git
-cd wine-price-prediction
-pip install -r requirements.txt
+1. git clone https://github.com/nicole-baltodano/wine-price-prediction.git
+2. cd wine-price-prediction
+3. pip install -r requirements.txt
 
 # Acknowledgements
 
