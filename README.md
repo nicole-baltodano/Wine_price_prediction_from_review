@@ -34,7 +34,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 # Installation 
 
 1. git clone git@github.com:nicole-baltodano/Wine_price_prediction_from_review.git
-2. cd =Wine_price_prediction_from_review
+2. cd Wine_price_prediction_from_review
 3. pip install -r requirements.txt
 
 # Acknowledgements
