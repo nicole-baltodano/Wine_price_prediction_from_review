@@ -36,7 +36,8 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ```bash
 git clone git@github.com:nicole-baltodano/Wine_price_prediction_from_review.git
 cd Wine_price_prediction_from_review
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+```
 
 # Acknowledgements
 
